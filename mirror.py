@@ -1,0 +1,2 @@
+print ("mirror")
+print("hello")
